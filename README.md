@@ -17,7 +17,8 @@ Installation
 Clone the repository: git clone https://github.com/yourusername/Football-team-cards--FCC.git
 Open the project directory in your code editor.
 Open index.html in your web browser to view the application.
-Usage
+
+# Usage
 Browse through the football team cards displayed on the webpage.
 Hover over each card to view player information.
 Explore the code to understand the implementation of JavaScript concepts.
@@ -30,7 +31,8 @@ Make your changes.
 Commit your changes (git commit -am 'Add new feature').
 Push to the branch (git push origin feature/new-feature).
 Create a new Pull Request.
-License
+
+# License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 # Contact
