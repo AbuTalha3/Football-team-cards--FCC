@@ -8,7 +8,8 @@ Implement switch statements for handling different cases.
 Utilize default parameters for function arguments.
 Use Object.freeze() to prevent modifications to objects.
 Demonstrate the map() method for iterating through arrays.
-Technologies Used
+
+# Technologies Used
 HTML
 CSS
 JavaScript
@@ -23,7 +24,7 @@ Explore the code to understand the implementation of JavaScript concepts.
 Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-Fork the repository.
+# Fork the repository.
 Create a new branch (git checkout -b feature/new-feature).
 Make your changes.
 Commit your changes (git commit -am 'Add new feature').
@@ -32,7 +33,7 @@ Create a new Pull Request.
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-Contact
+# Contact
 For any inquiries or feedback, please contact Your Name.
 
 Feel free to modify and expand upon this README as needed to provide more specific details about your project structure, implementation, and usage instructions.
