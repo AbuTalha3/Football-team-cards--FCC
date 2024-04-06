@@ -13,7 +13,8 @@ Demonstrate the map() method for iterating through arrays.
 HTML
 CSS
 JavaScript
-Installation
+
+# Installation
 Clone the repository: git clone https://github.com/yourusername/Football-team-cards--FCC.git
 Open the project directory in your code editor.
 Open index.html in your web browser to view the application.
